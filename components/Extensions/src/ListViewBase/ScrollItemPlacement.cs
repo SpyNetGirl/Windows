@@ -25,19 +25,9 @@ public enum ScrollItemPlacement
     Top,
 
     /// <summary>
-    /// Aligned center (both horizontally and vertically)
+    /// Aligned center
     /// </summary>
     Center,
-
-    /// <summary>
-    /// Aligned center horizontally
-    /// </summary>
-    CenterHorizontally,
-
-    /// <summary>
-    /// Aligned center vertically
-    /// </summary>
-    CenterVertically,
 
     /// <summary>
     /// Aligned right
